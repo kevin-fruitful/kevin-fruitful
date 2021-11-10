@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+## Currently working on:
+- Fruitful Metaverse
+
+https://github.com/FruitfulLabs
+
+If you sponsor me, you're amazing and I'll pay it forward eventually 😄
+
+## Check out
+https://loveboat.exchange
+https://info.loveboat.exchange
+
+Perhaps you should obtain some Love Tokens, you'll need 10 of them to join the Fruitful Metaverse.
+
 <!--
 **kevin-fruitful/kevin-fruitful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
