@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Currently working on:
-- Fruitful Metaverse
+- Fruitful Metaverse - Read about it here: https://docs.fruitful.gg
 
 https://github.com/FruitfulLabs
 
