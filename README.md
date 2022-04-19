@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 ## Currently working on:
-- Fruitful Metaverse - Read about it here: https://docs.fruitful.gg
+- Nayms (https://nayms.io)
+- Fruitful Metaverse
 
 https://github.com/FruitfulLabs
 
-If you sponsor me, you're amazing and I'll pay it forward eventually 😄
+
 
 ## Check out
 https://loveboat.exchange
