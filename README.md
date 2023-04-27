@@ -1,18 +1,7 @@
 ### Hi there 👋
 
 ## Currently working on:
-- Nayms (https://nayms.io)
-- Fruitful Metaverse
-
-https://github.com/FruitfulLabs
-
-
-
-## Check out
-https://loveboat.exchange
-https://info.loveboat.exchange
-
-Perhaps you should obtain some Love Tokens, you'll need 10 of them to join the Fruitful Metaverse.
+- Nayms 
 
 <!--
 **kevin-fruitful/kevin-fruitful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
