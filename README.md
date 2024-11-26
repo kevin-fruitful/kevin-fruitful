@@ -1,19 +1,17 @@
-### Hi there 👋
+# Hi there 👋
 
-## Currently working on:
-- Nayms 
+I'm **Kevin Park**.
 
-<!--
-**kevin-fruitful/kevin-fruitful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website Badge](https://img.shields.io/badge/Website-kevinpark.gg-blue)](https://kevinpark.gg)
 
-Here are some ideas to get you started:
+## 🚀 Currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [fan.fun](https://fan.fun)
+
+[![Fan.Fun Logo](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/logo.png)](https://fan.fun)
+
+*Connecting fans with their favorite creators in a whole new way!*
+
+---
+
+Feel free to reach out or check out my work!
