@@ -8,7 +8,7 @@ I'm **Kevin Park**.
 
 ### [fan.fun](https://fan.fun)
 
-[![Fan.Fun Logo](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/logo.png)](https://fan.fun)
+[![Fan.Fun Logo](https://raw.githubusercontent.com/kevin-fruitful/kevin-fruitful/refs/heads/main/images/fanfun%20logo.jpg)](https://fan.fun)
 
 *Connecting fans with their favorite creators in a whole new way!*
 
